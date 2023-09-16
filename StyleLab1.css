@@ -10,27 +10,33 @@
     font-weight: 100;
 }
 
+h2, h3 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
 h2 {
-    margin: 5px;
+    word-spacing: 5px;
 }
 
 div {
     padding: 20px;
-    width: 30%;
+    width: 28%;
     height: 100%;
     font-family: Arial;
+    font-size: 14px;
+    font-weight: 100;
     background-color: blue;
     color: white;
     margin: auto;
 }
 
 p {
-    padding: 10px 10px 10px 0px;
-    font-size: 14px;
-    margin: 5px;
+    padding-top: 10px;
 }
 
 .link[href="https://csd.tsu.ru/"] {
+    display: flex;
     justify-content: center;
     color: red;
 }
@@ -50,11 +56,11 @@ li.BLine {
     float: left;
     padding: 10px; /* Поля вокруг текста */
     border-color: white;
-    border: 3px solid;
+    border: 4px solid;
     border-radius: 10% 0% 10% 0%;
     width: 60px;
     height: 60px;
-    margin: 20px 20px 20px 0px;
+    margin: 20px 20px 5px 0px;
 }
 
 table {
