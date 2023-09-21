@@ -1,0 +1,26 @@
+﻿body {
+    margin:0px;
+}
+
+div {
+    padding: 0 0.5%;
+
+}
+
+#header {
+    height: 10vh;
+    width: 99%;
+    background-color: #EAEAEA;
+}
+
+#LColumn {
+    float: left;
+    width: 11.5%;
+    background-color: #C8FC98;
+}
+
+#CColumn {
+    float: right;
+    width: 86.5%;
+    background-color: white;
+}

@@ -1,0 +1,37 @@
+﻿div {
+    font-size: 14px;
+}
+
+p {
+    padding-right: 10px;
+}
+
+ul {
+    display: flow;
+    list-style-type: disc;
+}
+
+#Block {
+    position:relative;
+    border: 2px solid forestgreen;
+    background-color: aqua;
+}
+
+#NavigationBlock {
+    display: inline-block;
+    flex-wrap: wrap;
+    float: left;
+    position: relative;
+    background-color: bisque;
+}
+
+#ContentBlock {
+    display: inline-block;
+    position:fixed;
+    right:0;
+    flex-wrap: wrap;
+    min-width: 300px;
+    max-width: 60%;
+    background-color: darkgray;
+}
+

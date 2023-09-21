@@ -1,0 +1,8 @@
+﻿div {
+    position: center;
+    width: 40%;
+    min-width: 480px;
+    background-color: blue;
+    color: white;
+    margin: 0 auto;
+}
