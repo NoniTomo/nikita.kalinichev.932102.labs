@@ -33,7 +33,9 @@ ul {
     background-color: darkgray;
 }
 
-#Footer {
+Footer {
+    font-size: 14px;
+    padding: 0;
     height: 5%;
     width: 100%;
     position: fixed;

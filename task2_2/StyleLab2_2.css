@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+h1 {
+    margin: 0;
+}
+
 div {
     padding: 0 10px 10px 10px;
     font-size: 14.5px;
@@ -11,9 +15,10 @@ p {
     margin:0;
 }
 
-#header {
-    padding-top: 5px;
-    padding-bottom: 25px;
+header {
+    margin: 0;
+    padding: 5px 10px 25px 10px;
+    font-size: 14.5px;
     background-color: #EAEAEA;
 }
 
@@ -27,11 +32,10 @@ p {
 #RColumn {
     float: right;
     height: 90vh;
-    width: 10.2%;
+    width: 200px;
     background-color: #FDE95E;
 }
 
 #CColumn {
-    width: 87.8%;
     background-color: white;
 }
