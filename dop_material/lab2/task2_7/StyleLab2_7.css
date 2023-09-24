@@ -1,0 +1,54 @@
+﻿p {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    padding: 0;
+    font-size: 13px;
+    width: 130px;
+    height: 80px;
+    color: white;
+}
+
+#StaticDiv {
+    position: static;
+    background-color: blueviolet;
+}
+
+#LeftRelativeDiv {
+    position: relative;
+    background-color: darkred;
+}
+
+#RightRelativeDiv {
+    position: relative;
+    margin: -30px 0 30px 30px;
+    background-color: peru;
+}
+
+#BigRelativeDiv {
+    width: 500px;
+    height: 300px;
+    position: relative;
+    background-color: indianred;
+}
+
+#AbsoluteDiv {
+    position: absolute;
+    right:0;
+    top: 30%;
+    width: 50%;
+    height: 50%;
+    background-color: indigo;
+}
+
+#FixedDiv {
+    width:auto;
+    position: fixed;
+    bottom:0;
+    right:0;
+    height: 100px;
+    float: right;
+    background-color: forestgreen;
+}

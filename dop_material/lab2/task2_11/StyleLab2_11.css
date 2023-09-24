@@ -1,0 +1,15 @@
+﻿div {
+    border: 2px solid;
+    width: 100%;
+    background-color: aqua;
+    overflow: hidden;
+}
+
+img {
+    float: right;
+    padding-left: 10px;
+}
+
+p{
+    margin:0;
+}
