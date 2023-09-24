@@ -1,0 +1,15 @@
+﻿div {
+    position: center;
+    width: 30%;
+    min-width: 480px;
+    background-color: white;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+#BorderBlock {
+    box-sizing: border-box;
+    border: 10px solid;
+    border-color: blue;
+    padding: 40px;
+}
