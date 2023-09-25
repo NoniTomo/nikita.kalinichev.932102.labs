@@ -1,4 +1,4 @@
-﻿@media (min-width: 530px) {
+﻿@media screen and (min-width: 530px) {
     div {
         position: relative;
         margin: auto;
@@ -23,7 +23,7 @@
     }
 }
 
-@media (max-width: 530px) {
+@media screen and (max-width: 530px) {
     div {
         position: relative;
         margin: auto;
@@ -84,7 +84,6 @@ h1 {
 ul > li {
     list-style: none;
     padding: 5px;
-    text-align: justify;
     padding-right: 20px;
 }
 
