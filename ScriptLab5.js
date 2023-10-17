@@ -21,12 +21,21 @@ function closeModal (name1) {
 
 function buttonFunction1() {
     openModal(name1);
+    overlayElements.forEach(element => {
+        element.addEventListener("click", () => closeModal(name1));
+    })
 }
 
 function buttonFunction2() {
     openModal(name2);
+    overlayElements.forEach(element => {
+        element.addEventListener("click", () => closeModal(name2));
+    })
 }
 
 function buttonFunction3() {
     openModal(name3);
+    overlayElements.forEach(element => {
+        element.addEventListener("click", () => closeModal(name3));
+    })
 }
