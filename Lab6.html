@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewpoint" content="width-device-width, initial-scale=1.0">
+        <title>Frontend Task №6</title>
+        <link rel="stylesheet" href="StyleLab6.css">
+    </head>
+    <body>
+        <div id="main-content-block">
+            <nav>
+                <button onclick="shiftLeftImage()" class="navigation-block-button"><p class="navigation-block-button__text">Левая колонка</p></button>
+                <button onclick="returnBothImage()" class="navigation-block-button"><p class="navigation-block-button__text">Обе две</p></button>
+                <button onclick="shiftRightImage()" class="navigation-block-button"><p class="navigation-block-button__text">Правая колонка</p></button>
+            </nav>
+            <section>
+                <div id="left-image">
+                    <img id="cat" src="cat.jpg">
+                </div>
+                <div id="right-image">
+                    <img id="dog" src="dog.jpg">
+                </div>
+            </section>
+            <script src="ScriptLab6.js"></script>
+        </div>
+    </body>
+</html>
