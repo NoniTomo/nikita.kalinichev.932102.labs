@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(63, 81, 91);
+}
+:root{
+    --size: 1rem;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+.saidebar {
+    padding: 0.5rem 0;
+    height: min-content;
+    height: calc(var(--size) * 4);
+}
+.saidebar__input {
+    width: 100%;
+    height: calc(var(--size) * 1.5);
+}
+#saidebar__buttons {
+    padding: 0.5rem 0;
+}
+.button {
+    width: calc(var(--size) * 5);
+    height: calc(var(--size) * 1.5);
+}
+#conteiner{
+    border: calc(var(--size) * 0.05) solid black;
+    border-radius:  calc(var(--size) * 0.5);
+    margin: 0 var(--size);;
+    width: calc(100vw - var(--size) * 2);
+    height: calc(100% - var(--size) * 7)
+}
+.footer {
+    height: calc(var(--size) * 2.5);
+    width: 100%;
+    text-align: center;
+}
+.triangle-object {
+    width: 0;
+	height: 0;
+    position: absolute;
+}
+.square-object {
+    background-color: rgba(74, 146, 217, 0.8);
+    border: calc(var(--size) * 0.05) solid rgb(133, 174, 215);
+    position: absolute;
+}
+.circle-object {
+    border: calc(var(--size) * 0.05) solid rgb(134, 200, 87);
+    background-color: rgba(132, 233, 61, 0.8);
+    position: absolute;
+}
+#circle-1 {
+    height: var(--size-circle-id);
+    width: var(--size-circle-id);
+    margin-top: 11%;
+    margin-left: 27%;
+    --size-circle-id: calc(var(--size) * 3);
+    border-radius: var(--size-circle-id);
+}
+#square-1 {
+    --size-squere-id: calc(var(--size) * 3);
+    height: var(--size-squere-id);
+    width: var(--size-squere-id);
+    margin-top: 10%;
+    margin-left: 24%;
+}
+#triangle-1 {
+    --size-triangle-id: calc(var(--size) * 2);
+	border-left: var(--size-triangle-id) solid transparent;
+	border-right: var(--size-triangle-id) solid transparent;
+	border-bottom: calc(var(--size-triangle-id) * 2) solid rgba(235, 222, 44, 0.8);
+    margin-top: 39%;
+    margin-left: 95%;
+}
+.circle-object:hover, .square-object:hover, .triangle-object:hover? button:hover {
+    background-color: rgba(20, 13, 33, 0.8))
+}
+
