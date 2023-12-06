@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&family=Rubik:wght@300;400;500&family=Space+Mono:wght@700&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-size: var( --font-size);
+    border: none;
+    border-radius: 0.3rem;
+    font-family: 'League Spartan', 'sans-serif';
+}
+:root {
+    /*font-size*/
+    --font-size: 24px;
+
+    /*Backgrounds*/
+    --main-background: hsl(222, 26%, 31%);
+    --keypad-background: hsl(223, 31%, 20%);
+    --screen-background: hsl(224, 36%, 15%);
+    --key-background: hsl(225, 21%, 49%);
+    --key-shadow: hsl(224, 28%, 35%);
+
+    /*Keys*/
+    --key-background-red: hsl(6, 63%, 50%);
+    --key-background-red-light: hsl(6, 92%, 59%);
+    --key-shadow: hsl(6, 70%, 34%);
+    --key-background-white: hsl(30, 25%, 89%);
+    --key-shadow: hsl(28, 16%, 65%);
+
+    /*Text*/
+    --very-dark: hsl(221, 14%, 31%);
+    --white: hsl(0, 0%, 100%);
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 13rem;
+}
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: var(--main-background);
+}
+
+/*head*/
+.head {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: min-content;
+}
+.head__title {
+    color: var(--white);
+}
+.head__theme {
+}
+
+/*input*/
+.input-block {
+    padding: 0.5rem 0;
+    width: 100%;
+}
+.input-block__input {
+    text-align: left;
+    background-color: var(--screen-background);
+    color: var(--white);
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 1rem none;
+}
+
+/*keyboard*/
+.keyboard-block {
+    border-radius: 0.3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 0.5rem;
+    background-color: var( --keypad-background);
+}
+.keyboard-block__last-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    width: 100%;
+}
+.but {
+    margin: 0.2rem;
+    border-radius: 0.3rem;
+    color: var(--very-dark);
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--key-background-white);
+}
+.little {
+    width: 2.5rem;
+    height: 1.8rem;
+}
+.big {
+    height: 1.8rem;
+    width: 100%;
+}
+#equal {
+    background-color: var(--key-background-red);
+    color: var(--white);
+}
+#reset, #del  {
+    background-color: var(--main-background);
+    color: var(--white);
+}
+#equal:hover {
+    background-color: var(--key-background-red-light);
+}
+.but:hover {
+    background-color: var(--white);
+
+}
+#reset:hover, #del:hover {
+    background-color: var(--key-background);
+}
+@media screen and (max-width: 350px){
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin: 0.5rem;
+    }
+    .but {
+        margin: 0.2rem;
+        border-radius: 0.3rem;
+        color: var(--very-dark);
+        display: flex;
+        height: 100%;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--key-background-white);
+    }
+    .little {
+        width: calc(80% / 4);
+        height: 1.8rem;
+    }
+    .big {
+        height: 1.8rem;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 240px){
+    body{
+        margin: 0;
+    width: 240px;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        background-color: var(--main-background);
+    }
+}
