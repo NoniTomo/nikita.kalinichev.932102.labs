@@ -48,6 +48,7 @@ class App {
                 this.currentNumber += action;
             } else {
                 this.errorFunction();
+                return;
             }
         }
         if (action == "equal-action") {
