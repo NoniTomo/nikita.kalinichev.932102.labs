@@ -1,0 +1,86 @@
+E:\Вуз\3 курс\web\lab11\lab11\bin\Debug\net6.0\appsettings.Development.json
+E:\Вуз\3 курс\web\lab11\lab11\bin\Debug\net6.0\appsettings.json
+E:\Вуз\3 курс\web\lab11\lab11\bin\Debug\net6.0\lab11.staticwebassets.runtime.json
+E:\Вуз\3 курс\web\lab11\lab11\bin\Debug\net6.0\lab11.exe
+E:\Вуз\3 курс\web\lab11\lab11\bin\Debug\net6.0\lab11.deps.json
+E:\Вуз\3 курс\web\lab11\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+E:\Вуз\3 курс\web\lab11\lab11\bin\Debug\net6.0\lab11.dll
+E:\Вуз\3 курс\web\lab11\lab11\bin\Debug\net6.0\lab11.pdb
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.csproj.AssemblyReference.cache
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.MvcApplicationPartsAssemblyInfo.cache
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cache
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cs
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\staticwebassets.build.json
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\staticwebassets.development.json
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\scopedcss\bundle\lab11.styles.css
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\scopedcss\projectbundle\lab11.bundle.scp.css
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.dll
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\refint\lab11.dll
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.pdb
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+E:\Вуз\3 курс\web\lab11\lab11\obj\Debug\net6.0\ref\lab11.dll
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\bin\Debug\net6.0\appsettings.json
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\bin\Debug\net6.0\lab11.staticwebassets.runtime.json
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\bin\Debug\net6.0\lab11.exe
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\bin\Debug\net6.0\lab11.deps.json
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\bin\Debug\net6.0\lab11.dll
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\bin\Debug\net6.0\lab11.pdb
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cache
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cs
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\staticwebassets\msbuild.lab11.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\staticwebassets\msbuild.build.lab11.props
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab11.props
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab11.props
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\scopedcss\bundle\lab11.styles.css
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\scopedcss\projectbundle\lab11.bundle.scp.css
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.dll
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\refint\lab11.dll
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.pdb
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+C:\Users\nikit\Downloads\932101.orlikov.andrey.lab11-main\lab11\obj\Debug\net6.0\ref\lab11.dll
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\bin\Debug\net6.0\appsettings.Development.json
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\bin\Debug\net6.0\appsettings.json
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\bin\Debug\net6.0\lab11.staticwebassets.runtime.json
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\bin\Debug\net6.0\lab11.exe
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\bin\Debug\net6.0\lab11.deps.json
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\bin\Debug\net6.0\lab11.dll
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\bin\Debug\net6.0\lab11.pdb
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.MvcApplicationPartsAssemblyInfo.cache
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cache
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.RazorAssemblyInfo.cs
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\staticwebassets\msbuild.lab11.Microsoft.AspNetCore.StaticWebAssets.props
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\staticwebassets\msbuild.build.lab11.props
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab11.props
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab11.props
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\staticwebassets.pack.json
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\staticwebassets.build.json
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\staticwebassets.development.json
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\scopedcss\bundle\lab11.styles.css
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\scopedcss\projectbundle\lab11.bundle.scp.css
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.dll
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\refint\lab11.dll
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.pdb
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+C:\+__nikita__+\__University\3 kurs\web\nikita.kalinichev.932102.labs\lab11\obj\Debug\net6.0\ref\lab11.dll
